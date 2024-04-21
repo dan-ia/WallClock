@@ -2,19 +2,20 @@
   <img src="./img/icon.png" height="100px">
 </div>
 
-
 <h1 align='center'>
  <p>WallClock</p>
 </h1>
+
+### 📕 About
+
+Analog clock that informs the current time in a cozy way with the typical pointer sound. "tick, tick"
+
+#
 
 <div align="center">
    <img width="98%" src="./img/tela.gif">
 </div>
 
-
-### 📕 About
-
-Analog clock that informs the current time in a cozy way with the typical pointer sound. "tick, tick"
 #
 
 ### ❓ Why the app
