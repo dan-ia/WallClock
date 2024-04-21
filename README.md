@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <div align="center">
   <img src="./img/icon.png" height="100px">
@@ -59,3 +60,6 @@ You need to have [Node](https://nodejs.org/en/download), [Git](https://git-scm.c
 
 </div>
 
+=======
+<p align="center">🚧👷🏽‍♂️ README IN CONSTRUCTION 👷🏽‍♂️🚧</p>
+>>>>>>> 618c6e2f08050837c811dab7d109d2663024533b
